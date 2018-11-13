@@ -1,0 +1,26 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 13 November 2018 10.11.11
+   Source = \\Mac\iCloud\Skole\WebDev\5. sem\Web Programming\ioto\BarberShop\BarberShop\Umbraco_Client\
+     Dest = \\Mac\iCloud\Skole\WebDev\5. sem\Web Programming\ioto\BarberShop\BarberShop\App_Data\NuGetBackup\20181113-101005\Umbraco_Client\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	\\Mac\iCloud\Skole\WebDev\5. sem\Web Programming\ioto\BarberShop\BarberShop\Umbraco_Client\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         0         0         0         0         0         0
+   Bytes :         0         0         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : 13 November 2018 10.11.11
+
